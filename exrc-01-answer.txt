@@ -1,0 +1,8 @@
+# replaced ans
+relative_humidity=62.34
+temperature_average=18.56
+wind_speed=4.28
+precipitation_amount=0.02
+pressure_verage=1015.78
+
+# Please do not write anything else into this file.
